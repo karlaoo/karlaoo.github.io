@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: brown;
+  background-color:white;
 border: 3px solid;
   border-radius: 15px;
 text-align: center;
@@ -29,7 +29,7 @@ background-color: pink
 
 }
 
-li a {
+li a {	
 	display: inline-block;
 	color: white;
 	text-align: center;
@@ -38,11 +38,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #228B22;
+  background-color: #purple;
 }
 
 body {
-	background-color: #DAA520;
+	background-color: #pink;
 	font-family: sans-serif;
 }
 
